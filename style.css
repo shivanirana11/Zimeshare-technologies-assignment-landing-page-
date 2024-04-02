@@ -1,0 +1,65 @@
+html,
+body{
+    font-size: 1 rem;
+    font-family: "Montserrat", sans-serif;
+}
+.logo{
+    font-size: 30px!important;
+    font-weight: 700;
+    text-shadow: 3px 3px rgb(194, 193, 193);
+}
+
+.gradient{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,220,232,0.44879201680672265) 45%);
+}
+header{
+    margin-top: 5rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+header img{
+    border-radius: 3rem;
+}
+#feature{
+    color: #fff;
+}
+#feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+#feature ul li{
+    padding-left: 2rem;
+}
+#feature img{
+    border-radius: 3rem;
+}
+#icon{
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    display: inline-flex;
+}
+.gallery{
+    background-color: whitesmoke;
+}
+.gallery img{
+    border-radius: 5%;
+}
+#services{
+    color:#fff;
+}
+#footer{
+    color:#fff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+#footer span a {
+    color: #fff;
+    text-decoration: none;
+}
